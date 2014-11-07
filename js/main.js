@@ -30,15 +30,3 @@ function validator() {
     checkEmail();
     checkPassword();
 }
-
-// Use the following validation rules:
-// Email address - required and is a valid email address
-// Password - required, must contain at least one lowercase character, one uppercase character and one number
-
-/* TO DO 
-+ get pw Regex working X 
-+ encapsulate in function. right now, function just activates event listener, so would not work first time X 
-+ center vertically
-+ check for IE
-
-*/
